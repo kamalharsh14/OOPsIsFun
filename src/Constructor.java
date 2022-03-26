@@ -6,9 +6,11 @@ public class Constructor{
         
         //Creating 'Student' class object 'p1'
         Student p1 = new Student();
+        p1.name = "Harsh";
 
         //Creating 'Person' class object 'p12'
         Student p2 = new Student();
+        p2.name = "Kamal";
     }
 }
 
